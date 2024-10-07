@@ -1,0 +1,1 @@
+window.globalProvideData('caption', '{"data":"WEBVTT%0D%0AKind:%20captions%0D%0ASource:%20Articulate%20Closed%20Captions%20Editor%0D%0ASource%20Version:%203.92.33225.0%0D%0A%0D%0A00:00:00.075%20--%3E%2000:00:04.848%0D%0AStep%203....Open%20the%20baby\u0027s%20airway%20using%20the%20head-lift-chin-lift%20method%0D%0A%0D%0A"}')
